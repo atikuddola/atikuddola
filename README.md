@@ -1,6 +1,6 @@
-<h1 align="center">Hey, it's me, Atik Uddola</h1>
+<h1 align="center">Hey, I am Atik Uddola!</h1>
 <h3 align="center">Someone who hasn't chosen any specific path yet, exploring several ones. So far I have been into web application development and I am loving it. But you never know I might change the path later.</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/_9W8GeZaRp4AAAAd/goku-goku-broly.gif"
+<img align="center" alt="Coding" width="400" src="https://media1.tenor.com/m/_9W8GeZaRp4AAAAd/goku-goku-broly.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atikuddola&label=Profile%20views&color=0e75b6&style=flat" alt="atikuddola" /> </p>
 
