@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Atik Uddola</h1>
 <h3 align="center">Someone who hasn't choose any specific path yet, exploring several ones. So far I have been into web application development and I am loving it. But you never know I might change the path later.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/cf/f5/36/cff536d6011172210aabb40ea89b16ba.gif"
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/_9W8GeZaRp4AAAAd/goku-goku-broly.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atikuddola&label=Profile%20views&color=0e75b6&style=flat" alt="atikuddola" /> </p>
 
-- 🌱 I’m currently learning **AI, Computer Graphics and ML related Algorithms**
+- 🌱 Currently learning **AI, Computer Graphics and ML related Algorithms**
 
 - 💬 Ask me about **Python and Java**
 
